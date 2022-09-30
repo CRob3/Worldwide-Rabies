@@ -21,19 +21,19 @@ Disease – limited to rabies for this analysis (data for other diseases is also
 
 Serotype/Subtype/Genotype – more specifics on each disease that need this information - not included in my analysis
 
-Animal Category – Domestic, Wild, or Both - I removed the both category for my analysis
+Animal Category – Domestic, Wild, or Both - I removed the 'Both' category for my analysis
 
 Species – which animal species is affected
 
 Outbreak_id – a reference id assigned by WAHIS for reported cases - not included in my analysis
 
-New Outbreaks – new cases reported in that time period - not included in my analysis
+New Outbreaks – a sum of new cases reported in that time period - not included in my analysis
 
 Susceptible – the number of animals (of that species) in the epidemiological area that could become infected with rabies
 
 Cases – the number of animals infected with rabies in that time period
 
-Killed and Disposed of – animals killed to prevent the spread of disease (but were not infected)
+Killed and Disposed of – animals killed to prevent the spread of disease (not infected)
 
 Slaughtered – animals killed for personal or commercial use (not infected)
 
